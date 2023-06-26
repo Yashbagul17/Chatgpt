@@ -1,3 +1,4 @@
 /node_modules
 /package-lock.json
-/package.json
+/aiopen/node_modules
+/aiopen/package-lock.json
