@@ -1,0 +1,13 @@
+*{
+    padding:0; 
+    margin:0; 
+    box-sizing: border-box;
+    color: #d5d5db;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.3;
+}
+
+body{
+    background:#343541;
+}
+
